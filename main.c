@@ -7,7 +7,10 @@
 
 int lab1();
 int lab2();
+int lab3();
+int lab4();
 int lab5();
+int lab6();
 
 int main(){
 
@@ -28,8 +31,20 @@ int main(){
                 lab2();
                 printf("\n\nEnd of lab \n\n");
                 break;
+            case 3:
+                lab3();
+                printf("\n\nEnd of lab \n\n");
+                break;
+            case 4:
+                lab4();
+                printf("\n\nEnd of lab \n\n");
+                break;
             case 5:
                 lab5();
+                printf("\n\nEnd of lab \n\n");
+                break;
+            case 6:
+                lab6();
                 printf("\n\nEnd of lab \n\n");
                 break;
             default:

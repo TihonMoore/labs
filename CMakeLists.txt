@@ -3,4 +3,4 @@ project(LabsJob C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(LabsJob lab1.c lab2.c lab5.c main.c)
+add_executable(LabsJob lab1.c lab2.c lab5.c main.c lab4.c lab3.c lab6.c)
