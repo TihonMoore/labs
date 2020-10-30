@@ -1,0 +1,3 @@
+C:/Users/Tihon/CLionProjects/LabsJob/cmake-build-debug/CMakeFiles/LabsJob.dir
+C:/Users/Tihon/CLionProjects/LabsJob/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tihon/CLionProjects/LabsJob/cmake-build-debug/CMakeFiles/rebuild_cache.dir
